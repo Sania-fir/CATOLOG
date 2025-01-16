@@ -1,0 +1,4 @@
+Test CASE 1:
+The constant term (c) of the polybomial is:22.642857
+Test CASE 2:
+The constant term (c) of the polybomial is:1.56979e+27
